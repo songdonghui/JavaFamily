@@ -318,7 +318,11 @@
 - 高并发架构基石-缓存
  
   - Redis数据结构、基础知识
-    - [Redis基础知识](https://mp.weixin.qq.com/s/aOiadiWG2nNaZowmoDQPMQ)
+    - 【大厂】redis基础 (https://juejin.cn/post/6844903982066827277)
+    - Redis双写一致性、并发竞争、线程模型 (https://juejin.cn/post/6844903991562747912)
+    - 缓存雪崩、击穿、穿透(https://juejin.cn/post/6844903986475057165)
+    - Redis哨兵、持久化、主从、手撕LRU(https://juejin.cn/post/6844903989184577550)
+    -  [Redis基础知识](https://mp.weixin.qq.com/s/aOiadiWG2nNaZowmoDQPMQ)
     - [图解 Redis 数据结构](https://mp.weixin.qq.com/s/qptE172slg_6Tl1yuzdbfw)
     
     - [Redis为什么这么快？](https://mp.weixin.qq.com/s/KtzvawDnQQwhfjnCoXpcMQ)
