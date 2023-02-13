@@ -224,6 +224,7 @@
   - 线程池知识点
     - [记一次线程池引发的故障 排查下来是三歪的锅](https://mp.weixin.qq.com/s/TQGtNpPiTypeKd5kUnfxEw)
     - [深入线程池，连环17问](https://mp.weixin.qq.com/s/NDOx94yY06OnHjrYq2lVYw)
+    - [线程池美团实战](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
   - 常见的JUC工具类
     - [AQS](https://mp.weixin.qq.com/s/hB5ncpe7_tVovQj1sNlDRA)
     
