@@ -253,9 +253,8 @@
 
   
 - 数据结构与算法
-
-  - 从二叉搜索树到B+树
-  
+  -[二叉树遍历](https://blog.csdn.net/kndjg/article/details/126290142)
+  - 从二叉搜索到B+树
   - 经典问题之字符串
   - 经典问题之TOPK
   - [最大公共子串](https://mp.weixin.qq.com/s/Yx3uRVGFYikx8gm-oi-0vg)
