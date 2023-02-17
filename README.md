@@ -473,7 +473,11 @@
   - Kibana
   - Lucene
   - Logstash
-  
+ 
+
+- 软件测试
+ -电商
+    -[购物车测试流程](https://zhuanlan.zhihu.com/p/520130072)
 - 优秀开源框架推荐
 
   - [阿里巴巴开源限流系统 Sentinel 全解析](https://mp.weixin.qq.com/s/NgS9tL4IVwGZrssz7fURpA)
