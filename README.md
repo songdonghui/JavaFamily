@@ -480,6 +480,8 @@
     -[购物车测试流程](https://zhuanlan.zhihu.com/p/520130072)
  -支付
     -[微信红包](https://77br.cn/3103.html)
+ -[IM]
+    -[发送消息测试](https://blog.csdn.net/m0_67695717/article/details/126424863)
 - 优秀开源框架推荐
 
   - [阿里巴巴开源限流系统 Sentinel 全解析](https://mp.weixin.qq.com/s/NgS9tL4IVwGZrssz7fURpA)
